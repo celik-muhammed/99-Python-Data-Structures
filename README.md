@@ -3,6 +3,7 @@
 Almost every program uses data. Organizing, managing and storing data is important as it enables easier access and efficient modifications. `Data Structures` allow you to store and manage your data.[^1]
 
 Python has a number of `built-in` data structures:
+00. [ ] [Go to Main Page - 00-Index-of-GitHub-Public-Projects-Repository-Logs](https://github.com/celik-muhammed/00-Index-of-GitHub-Public-Projects-Repository-Logs)
 01. [x] [01-Strings](01-Strings)
 02. [x] [02-Lists](02-Lists)
 03. [x] [03-Tuples](03-Tuples)
