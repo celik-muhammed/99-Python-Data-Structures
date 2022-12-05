@@ -13,6 +13,6 @@ Python has a number of `built-in` data structures:
 05. [x] [05-Dictionaries](05-Dictionaries)
 06. [x] [06-User-Defined-Data-Structures](06-User-Defined-Data-Structures)
 
-
+![](https://media-exp1.licdn.com/dms/image/C4D22AQElZrTENVDkMA/feedshare-shrink_800/0/1669720898446?e=1672876800&v=beta&t=Tpxsm6bxE035hgXUU9NENhradLNLT30tV_Qy-amHd5M)
 
 [^1]: https://www.sololearn.com/
